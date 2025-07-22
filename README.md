@@ -1,10 +1,10 @@
 ## Bienvenid@ 👋
 
-Esta cuenta contiene respaldos de proyectos realizados para la empresa 🦃 **Empacadora Silva, S.A. de C.V.** 🐖 por lo que los
+Esta cuenta contiene respaldos de proyectos realizados para la empresa **Empacadora Silva, S.A. de C.V.** por lo que los
 repositorios contenidos en esta cuenta se mantienen como *privados*.
 
 Agradecemos que no se modifique diche visibilidad en dichos repositorios y que no se comparta el código con personas ajenas
-a la empresa ya que el código y proyectos en si son propiedad de **Empacadora Silva, S.A. de C.V.**
+a la empresa ya que el código y proyectos en sí, son propiedad de **Empacadora Silva, S.A. de C.V.**
 
 Si eres desarrollador laborando para la empresa antes mencionada, sienteté libre de hacer contribuciones a proyectos y no hacer un mal
 uso de estos proyectos.
